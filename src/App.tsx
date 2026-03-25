@@ -134,7 +134,7 @@ function App() {
             Toast.show({
                 type: "success",
                 text1: "Copied!",
-                text2: "Password copied!!",
+                text2: "Password copied!",
             });
             HapticFeedback.trigger("impactMedium", HapticFeedbackOptions);
         }
